@@ -1,0 +1,52 @@
+
+	
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Schoolbell', cursive;
+	font-size: 2rem;
+	margin: 0;
+	padding: 2rem;
+}
+
+h1 {
+	margin: 0;
+	font-size: 3.8rem;
+}
+
+figure {
+	margin: 0;
+	background: rgba(lightskyBlue, 0.8);
+	box-shadow: -0.035rem 0.03rem 0.3rem rgba(0, 0, 0, 0.9);
+}
+
+p {
+	margin: 0;
+	padding: 1.8rem;
+	background-color: aliceBlue;
+	box-shadow: -0.035rem 0.03rem 0.3rem rgba(0, 0, 0, 0.9);
+	z-index: 1;
+	position: relative;
+}
+
+img {
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+
+header {
+	
+	
+	padding: 2rem;
+	box-shadow: -0.035rem 0.03rem 0.3rem rgba(0, 0, 0, 0.2);
+	z-index: 1;
+	text-align: center;
+	background-color: aliceBlue;
+}
+
+
